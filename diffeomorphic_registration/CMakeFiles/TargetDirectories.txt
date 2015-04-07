@@ -1,0 +1,8 @@
+/autofs/cluster/con_003/users/mert/lukeliu/ARRANGE/pubsw/codeupdate/BrainFusionLab_test/diffeomorphic_registration/CMakeFiles/deffieldharmonicenergy.dir
+/autofs/cluster/con_003/users/mert/lukeliu/ARRANGE/pubsw/codeupdate/BrainFusionLab_test/diffeomorphic_registration/CMakeFiles/deffieldjacobiandeterminant.dir
+/autofs/cluster/con_003/users/mert/lukeliu/ARRANGE/pubsw/codeupdate/BrainFusionLab_test/diffeomorphic_registration/CMakeFiles/deffieldjacobiandist.dir
+/autofs/cluster/con_003/users/mert/lukeliu/ARRANGE/pubsw/codeupdate/BrainFusionLab_test/diffeomorphic_registration/CMakeFiles/invcondemonsforces.dir
+/autofs/cluster/con_003/users/mert/lukeliu/ARRANGE/pubsw/codeupdate/BrainFusionLab_test/diffeomorphic_registration/CMakeFiles/velocityfieldexp.dir
+/autofs/cluster/con_003/users/mert/lukeliu/ARRANGE/pubsw/codeupdate/BrainFusionLab_test/diffeomorphic_registration/CMakeFiles/warpimage.dir
+/autofs/cluster/con_003/users/mert/lukeliu/ARRANGE/pubsw/codeupdate/BrainFusionLab_test/diffeomorphic_registration/CMakeFiles/warplabelimage.dir
+/autofs/cluster/con_003/users/mert/lukeliu/ARRANGE/pubsw/codeupdate/BrainFusionLab_test/diffeomorphic_registration/CMakeFiles/weightedfwdemonsforces.dir

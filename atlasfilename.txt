@@ -1,0 +1,193 @@
+Training image and training labels is:
+orignal36.nii.gz,orignal20.nii.gz,orignal35.nii.gz,orignal23.nii.gz,orignal24.nii.gz
+lable36.nii.gz,lable20.nii.gz,lable35.nii.gz,lable23.nii.gz,lable24.nii.gz
+
+The subject image and subject label is:
+orignal01.nii.gz orignal15.nii.gz
+lable01.nii.gz lable15.nii.gzTraining image and training labels is:
+orignal25.nii.gz,orignal28.nii.gz,orignal16.nii.gz,orignal18.nii.gz,orignal32.nii.gz
+lable25.nii.gz,lable28.nii.gz,lable16.nii.gz,lable18.nii.gz,lable32.nii.gz
+
+The subject image and subject label is:
+orignal05.nii.gz orignal03.nii.gz
+lable05.nii.gz lable03.nii.gzTraining image and training labels is:
+orignal28.nii.gz,orignal19.nii.gz,orignal01.nii.gz,orignal38.nii.gz,orignal06.nii.gz
+lable28.nii.gz,lable19.nii.gz,lable01.nii.gz,lable38.nii.gz,lable06.nii.gz
+
+The subject image and subject label is:
+orignal04.nii.gz orignal26.nii.gz
+lable04.nii.gz lable26.nii.gzTraining image and training labels is:
+orignal29.nii.gz,orignal02.nii.gz,orignal27.nii.gz,orignal35.nii.gz,orignal39.nii.gz
+lable29.nii.gz,lable02.nii.gz,lable27.nii.gz,lable35.nii.gz,lable39.nii.gz
+
+The subject image and subject label is:
+orignal25.nii.gz orignal05.nii.gz
+lable25.nii.gz lable05.nii.gzTraining image and training labels is:
+orignal03.nii.gz,orignal30.nii.gz,orignal09.nii.gz,orignal40.nii.gz,orignal10.nii.gz
+lable03.nii.gz,lable30.nii.gz,lable09.nii.gz,lable40.nii.gz,lable10.nii.gz
+
+The subject image and subject label is:
+orignal11.nii.gz orignal17.nii.gz
+lable11.nii.gz lable17.nii.gzTraining image and training labels is:
+orignal08.nii.gz,orignal07.nii.gz,orignal32.nii.gz,orignal12.nii.gz,orignal06.nii.gz
+lable08.nii.gz,lable07.nii.gz,lable32.nii.gz,lable12.nii.gz,lable06.nii.gz
+
+The subject image and subject label is:
+orignal38.nii.gz orignal11.nii.gz
+lable38.nii.gz lable11.nii.gzTraining image and training labels is:
+orignal03.nii.gz,orignal20.nii.gz,orignal04.nii.gz,orignal01.nii.gz,orignal37.nii.gz
+lable03.nii.gz,lable20.nii.gz,lable04.nii.gz,lable01.nii.gz,lable37.nii.gz
+
+The subject image and subject label is:
+orignal32.nii.gz orignal02.nii.gz
+lable32.nii.gz lable02.nii.gzTraining image and training labels is:
+orignal01.nii.gz,orignal19.nii.gz,orignal05.nii.gz,orignal23.nii.gz,orignal29.nii.gz
+lable01.nii.gz,lable19.nii.gz,lable05.nii.gz,lable23.nii.gz,lable29.nii.gz
+
+The subject image and subject label is:
+orignal18.nii.gz orignal21.nii.gz
+lable18.nii.gz lable21.nii.gzTraining image and training labels is:
+orignal11.nii.gz,orignal08.nii.gz,orignal20.nii.gz,orignal12.nii.gz,orignal38.nii.gz
+lable11.nii.gz,lable08.nii.gz,lable20.nii.gz,lable12.nii.gz,lable38.nii.gz
+
+The subject image and subject label is:
+orignal30.nii.gz orignal01.nii.gz
+lable30.nii.gz lable01.nii.gzTraining image and training labels is:
+orignal29.nii.gz,orignal35.nii.gz,orignal25.nii.gz,orignal37.nii.gz,orignal26.nii.gz
+lable29.nii.gz,lable35.nii.gz,lable25.nii.gz,lable37.nii.gz,lable26.nii.gz
+
+The subject image and subject label is:
+orignal39.nii.gz orignal05.nii.gz
+lable39.nii.gz lable05.nii.gzTraining image and training labels is:
+orignal05.nii.gz,orignal39.nii.gz,orignal38.nii.gz,orignal19.nii.gz,orignal32.nii.gz
+lable05.nii.gz,lable39.nii.gz,lable38.nii.gz,lable19.nii.gz,lable32.nii.gz
+
+The subject image and subject label is:
+orignal06.nii.gz orignal40.nii.gz
+lable06.nii.gz lable40.nii.gzTraining image and training labels is:
+orignal28.nii.gz,orignal07.nii.gz,orignal29.nii.gz,orignal26.nii.gz,orignal06.nii.gz
+lable28.nii.gz,lable07.nii.gz,lable29.nii.gz,lable26.nii.gz,lable06.nii.gz
+
+The subject image and subject label is:
+orignal20.nii.gz orignal19.nii.gz
+lable20.nii.gz lable19.nii.gzTraining image and training labels is:
+orignal39.nii.gz,orignal12.nii.gz,orignal13.nii.gz,orignal40.nii.gz,orignal38.nii.gz
+lable39.nii.gz,lable12.nii.gz,lable13.nii.gz,lable40.nii.gz,lable38.nii.gz
+
+The subject image and subject label is:
+orignal36.nii.gz orignal07.nii.gz
+lable36.nii.gz lable07.nii.gzTraining image and training labels is:
+orignal22.nii.gz,orignal23.nii.gz,orignal06.nii.gz,orignal19.nii.gz,orignal07.nii.gz
+lable22.nii.gz,lable23.nii.gz,lable06.nii.gz,lable19.nii.gz,lable07.nii.gz
+
+The subject image and subject label is:
+orignal27.nii.gz orignal30.nii.gz
+lable27.nii.gz lable30.nii.gzTraining image and training labels is:
+orignal06.nii.gz,orignal26.nii.gz,orignal37.nii.gz,orignal05.nii.gz,orignal35.nii.gz
+lable06.nii.gz,lable26.nii.gz,lable37.nii.gz,lable05.nii.gz,lable35.nii.gz
+
+The subject image and subject label is:
+orignal08.nii.gz orignal11.nii.gz
+lable08.nii.gz lable11.nii.gzTraining image and training labels is:
+orignal24.nii.gz,orignal15.nii.gz,orignal39.nii.gz,orignal40.nii.gz,orignal34.nii.gz
+lable24.nii.gz,lable15.nii.gz,lable39.nii.gz,lable40.nii.gz,lable34.nii.gz
+
+The subject image and subject label is:
+orignal37.nii.gz orignal11.nii.gz
+lable37.nii.gz lable11.nii.gzTraining image and training labels is:
+orignal01.nii.gz,orignal35.nii.gz,orignal05.nii.gz,orignal24.nii.gz,orignal15.nii.gz
+lable01.nii.gz,lable35.nii.gz,lable05.nii.gz,lable24.nii.gz,lable15.nii.gz
+
+The subject image and subject label is:
+orignal25.nii.gz orignal11.nii.gz
+lable25.nii.gz lable11.nii.gzTraining image and training labels is:
+orignal01.nii.gz,orignal35.nii.gz,orignal06.nii.gz,orignal18.nii.gz,orignal05.nii.gz
+lable01.nii.gz,lable35.nii.gz,lable06.nii.gz,lable18.nii.gz,lable05.nii.gz
+
+The subject image and subject label is:
+orignal02.nii.gz orignal27.nii.gz
+lable02.nii.gz lable27.nii.gzTraining image and training labels is:
+orignal18.nii.gz,orignal14.nii.gz,orignal37.nii.gz,orignal26.nii.gz,orignal24.nii.gz
+lable18.nii.gz,lable14.nii.gz,lable37.nii.gz,lable26.nii.gz,lable24.nii.gz
+
+The subject image and subject label is:
+orignal27.nii.gz orignal22.nii.gz
+lable27.nii.gz lable22.nii.gzTraining image and training labels is:
+orignal40.nii.gz,orignal05.nii.gz,orignal28.nii.gz,orignal23.nii.gz,orignal35.nii.gz
+lable40.nii.gz,lable05.nii.gz,lable28.nii.gz,lable23.nii.gz,lable35.nii.gz
+
+The subject image and subject label is:
+orignal27.nii.gz orignal29.nii.gz
+lable27.nii.gz lable29.nii.gzTraining image and training labels is:
+orignal05.nii.gz,orignal20.nii.gz,orignal24.nii.gz,orignal04.nii.gz,orignal21.nii.gz
+lable05.nii.gz,lable20.nii.gz,lable24.nii.gz,lable04.nii.gz,lable21.nii.gz
+
+The subject image and subject label is:
+orignal07.nii.gz orignal40.nii.gz
+lable07.nii.gz lable40.nii.gzTraining image and training labels is:
+orignal34.nii.gz,orignal03.nii.gz,orignal31.nii.gz,orignal19.nii.gz,orignal07.nii.gz
+lable34.nii.gz,lable03.nii.gz,lable31.nii.gz,lable19.nii.gz,lable07.nii.gz
+
+The subject image and subject label is:
+orignal33.nii.gz orignal20.nii.gz
+lable33.nii.gz lable20.nii.gzTraining image and training labels is:
+orignal19.nii.gz,orignal29.nii.gz,orignal26.nii.gz,orignal01.nii.gz,orignal02.nii.gz
+lable19.nii.gz,lable29.nii.gz,lable26.nii.gz,lable01.nii.gz,lable02.nii.gz
+
+The subject image and subject label is:
+orignal11.nii.gz orignal14.nii.gz
+lable11.nii.gz lable14.nii.gzTraining image and training labels is:
+orignal29.nii.gz,orignal11.nii.gz,orignal05.nii.gz,orignal28.nii.gz,orignal36.nii.gz
+lable29.nii.gz,lable11.nii.gz,lable05.nii.gz,lable28.nii.gz,lable36.nii.gz
+
+The subject image and subject label is:
+orignal33.nii.gz orignal02.nii.gz
+lable33.nii.gz lable02.nii.gzTraining image and training labels is:
+orignal34.nii.gz,orignal30.nii.gz,orignal25.nii.gz,orignal23.nii.gz,orignal06.nii.gz
+lable34.nii.gz,lable30.nii.gz,lable25.nii.gz,lable23.nii.gz,lable06.nii.gz
+
+The subject image and subject label is:
+orignal33.nii.gz orignal28.nii.gz
+lable33.nii.gz lable28.nii.gzTraining image and training labels is:
+orignal18.nii.gz,orignal38.nii.gz,orignal30.nii.gz,orignal09.nii.gz,orignal08.nii.gz
+lable18.nii.gz,lable38.nii.gz,lable30.nii.gz,lable09.nii.gz,lable08.nii.gz
+
+The subject image and subject label is:
+orignal32.nii.gz orignal25.nii.gz
+lable32.nii.gz lable25.nii.gzTraining image and training labels is:
+orignal14.nii.gz,orignal18.nii.gz,orignal10.nii.gz,orignal06.nii.gz,orignal22.nii.gz
+lable14.nii.gz,lable18.nii.gz,lable10.nii.gz,lable06.nii.gz,lable22.nii.gz
+
+The subject image and subject label is:
+orignal24.nii.gz orignal13.nii.gz
+lable24.nii.gz lable13.nii.gzTraining image and training labels is:
+orignal09.nii.gz,orignal38.nii.gz,orignal30.nii.gz,orignal23.nii.gz,orignal16.nii.gz
+lable09.nii.gz,lable38.nii.gz,lable30.nii.gz,lable23.nii.gz,lable16.nii.gz
+
+The subject image and subject label is:
+orignal21.nii.gz orignal17.nii.gz
+lable21.nii.gz lable17.nii.gzTraining image and training labels is:
+orignal25.nii.gz,orignal20.nii.gz,orignal26.nii.gz,orignal02.nii.gz,orignal33.nii.gz
+lable25.nii.gz,lable20.nii.gz,lable26.nii.gz,lable02.nii.gz,lable33.nii.gz
+
+The subject image and subject label is:
+orignal35.nii.gz orignal39.nii.gz
+lable35.nii.gz lable39.nii.gzTraining image and training labels is:
+orignal28.nii.gz,orignal23.nii.gz,orignal24.nii.gz,orignal27.nii.gz,orignal26.nii.gz
+lable28.nii.gz,lable23.nii.gz,lable24.nii.gz,lable27.nii.gz,lable26.nii.gz
+
+The subject image and subject label is:
+orignal25.nii.gz orignal35.nii.gz
+lable25.nii.gz lable35.nii.gzTraining image and training labels is:
+orignal13.nii.gz,orignal33.nii.gz,orignal05.nii.gz,orignal04.nii.gz,orignal16.nii.gz
+lable13.nii.gz,lable33.nii.gz,lable05.nii.gz,lable04.nii.gz,lable16.nii.gz
+
+The subject image and subject label is:
+orignal27.nii.gz orignal09.nii.gz
+lable27.nii.gz lable09.nii.gzTraining image and training labels is:
+orignal35.nii.gz,orignal30.nii.gz,orignal11.nii.gz,orignal05.nii.gz,orignal38.nii.gz
+lable35.nii.gz,lable30.nii.gz,lable11.nii.gz,lable05.nii.gz,lable38.nii.gz
+
+The subject image and subject label is:
+orignal06.nii.gz orignal04.nii.gz
+lable06.nii.gz lable04.nii.gz
